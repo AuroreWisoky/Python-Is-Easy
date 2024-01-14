@@ -1,5 +1,5 @@
 ##
-# Variables Lecture
+#*Variables Lecture
 ##
 
 # -*- coding: utf-8 -*-
@@ -225,3 +225,4 @@ print(count)
 1
 0.333333333333
 """
+ 
